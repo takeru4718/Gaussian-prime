@@ -1,0 +1,7 @@
+﻿  tyukanKadai.cpp
+D:\cg\tyukanKadai\tyukanKadai.cpp(81,15): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  tyukanKadai.vcxproj -> D:\cg\tyukanKadai\Release\tyukanKadai.exe
